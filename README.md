@@ -1,0 +1,4 @@
+cubieboard
+==========
+
+cubieboard setting
