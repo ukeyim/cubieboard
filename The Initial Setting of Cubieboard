@@ -1,3 +1,4 @@
 passwd root
 sudo cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 sudo vim /etc/apt/source.list
+minidlna should be started as sudo
